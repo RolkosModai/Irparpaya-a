@@ -28,13 +28,13 @@ echo -e "\e[1;31m[8]\e[1;32m KUREJU ZINUTE"
 echo -e "\e[1;31m[0]\e[1;32m ISEITI IS MENIU"
 echo ""
 echo -e "\e[1;36m"
-echo -n "Choose option: "
+echo -n "Pasirinkimas: "
 read opcion
 #lista de menu
 echo -e "\e[0m"
 case $opcion in
 1)echo ""
-echo -n "HOST: ";
+echo -n "HOSTAS: ";
 read HOST;
 bash .scan.sh $HOST
 echo ""
@@ -43,7 +43,7 @@ echo -e "\e[1;31mpaspauskite Enter, kad testumete ...!\e[0m";
 read foo
 ;;
 2)echo ""
-echo "Showing host status...";
+echo "Rodoma Hosto bUsena...";
 echo ""
 bash .status.sh
 echo ""
@@ -61,16 +61,16 @@ bash .payloads.ingles
 read foo;
 ;;
 5)echo ""
-echo -ne "\e[1;31m DOMAIN(IP/WEB): ";
+echo -ne "\e[1;31m DOMAINAS(IP/WEB): ";
 read MAIN
-echo -ne "\e[1;31m PORTS(53,80):  ";
+echo -ne "\e[1;31m PORTAS(53,80):  ";
 read RTS
 sleep 2
 echo -e "\e[1;32m";
 nmap -p $RTS $MAIN
 read foo
 ;;
-6)echo -ne "\e[1;31mSITE WEB/IP: ";
+6)echo -ne "\e[1;31mSAITAS WEB/IP: ";
 read WEB
 echo ""
 echo -e "\e[1;32m"
@@ -84,7 +84,7 @@ cat manualEN.txt
 read foo
 ;;
 12.25)clear
-echo -e "\e[1;32mEntering the secret menu...";
+echo -e "\e[1;32mIejimas i slapta meniu...";
 sleep 2
 bash ._
 read foo

@@ -106,6 +106,11 @@ echo -e "\e[1;36mNunca dejes de aprender... :)\e[0m"
 echo ""
 read foo;
 ;;
+97)clear
+echo "translating to lithuania language...";
+sleep 3
+bash real-host-v3.sh
+;;
 98)clear
 echo "Traduciendo al idioma ingles...";
 sleep 4

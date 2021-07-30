@@ -36,13 +36,13 @@ PASO N°2
 
 #Instalar el script host-extractor-v2
 
-git clone https://github.com/HackeRStrategy/Irparpaya-a.git
+git clone https://github.com/Roslandas/Irparpaya-a.git
 
 cd Irparpaya-a
 
-chmod +x real-host-v2.sh
+chmod +x real-host-v3.sh
 
-bash real-host-v2.sh
+bash real-host-v3.sh
 
 
 

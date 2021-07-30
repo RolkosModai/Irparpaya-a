@@ -39,7 +39,7 @@ read HOST;
 bash .scan.sh $HOST
 echo ""
 echo -e "\e[0m";
-echo -e "\e[1;31mpress enter to continue with the script...!\e[0m";
+echo -e "\e[1;31mpaspauskite Enter, kad testumete ...!\e[0m";
 read foo
 ;;
 2)echo ""
@@ -47,7 +47,7 @@ echo "Showing host status...";
 echo ""
 bash .status.sh
 echo ""
-echo -e "\e[1;31mpress enter to continue with the script...\e[0m"
+echo -e "\e[1;31mpaspauskite Enter, kad testumete ...\e[0m"
 read foo
 ;;
 3)echo ""

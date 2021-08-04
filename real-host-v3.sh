@@ -43,21 +43,21 @@ echo -e "\e[1;31mpaspauskite Enter, kad testumete ...!\e[0m";
 read foo
 ;;
 2)echo ""
-echo "Rodoma Hosto bUsena...";
+echo "Rodoma Hosto busena...";
 echo ""
 bash .status.sh
 echo ""
-echo -e "\e[1;31mpaspauskite Enter, kad testumete ...\e[0m"
+echo -e "\e[1;31mPaspauskite Enter, kad testumete ...\e[0m"
 read foo
 ;;
 3)echo ""
-echo -e "\e[1;33mPaste the host to show the status\e[0m";
-echo -e "\e[1;31mRemember CTRL + C to go out\e[0m";
-echo -e "\e[1;36mHOST: \e[0m";
+echo -e "\e[1;33mNoredami parodyti busena, iklijuokite Hosta\e[0m";
+echo -e "\e[1;31mPrisiminkite CTRL + C, kad iseitumete\e[0m";
+echo -e "\e[1;36mHOSTAS: \e[0m";
 cat>lista-host.txt
 ;;
 4)clear
-bash .payloads.ingles
+bash .payloads.lit
 read foo;
 ;;
 5)echo ""
@@ -102,7 +102,7 @@ echo "FACEBOOK: https://m.facebook.com/RealHackRWAM "
 echo ""
 echo -e "\e[1;31mMESSAJE FROM RS\e[0m"
 echo ""
-echo -e "\e[1;36mNever stop learning... :)\e[0m"
+echo -e "\e[1;36mNiekada nenustok mokytis... :)\e[0m"
 echo ""
 read foo;
 ;;
@@ -126,7 +126,7 @@ bash .real-host.sh
 exit 0;;
 #error
 *)clear
-echo "Invalid command...";
+echo "Netinkama komanda...";
 sleep 1.5
 ;;
 esac

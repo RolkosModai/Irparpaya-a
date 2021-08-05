@@ -3,11 +3,11 @@ VEIKSMAS N°1
 
 apt update && apt upgrade -y
 
-pkg install nmap
+pkg install nmap -y
 
-pkg install wget
+pkg install wget -y
 
-pkg install curl
+pkg install curl -y
 
 pkg install git
 

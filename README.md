@@ -14,7 +14,7 @@ pkg install git
 
 VEIKSMAS N°2
 
-git clone https://github.com/Roslandas/Irparpaya-a.git
+git clone https://github.com/RolkosModai/Irparpaya-a.git
 
 cd Irparpaya-a
 

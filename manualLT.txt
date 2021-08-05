@@ -1,15 +1,9 @@
 .........................
 #NAME SCRIPT: Irparpayaña
 .........................
-#Irparpayaña meaning = Accompany one to put it on the road.
-#Language: Aymara - Perú 
-.........................
-#Sunday 09/12/2018
-#Tuesday 01/15/2019
-#By: real strategy / rwam
-........................
 
-OPTIONS:
+
+INFORMACIJA:
 
 [1] Ištraukia URL iš tokių svetainių kaip http ir https
 [2] Rodo svetainės būseną
@@ -27,9 +21,6 @@ OPTIONS:
 
 [xx.xx] Secret menu :)
 
-
-
-DATA:
 
 
 MODIFIKUOTA ROLKOS

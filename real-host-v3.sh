@@ -78,7 +78,7 @@ curl https://api.hackertarget.com/geoip/?q=$WEB
 read foo
 ;;
 7)clear
-echo -e "\e[1;32mRead everything for the proper use of the tool...";
+echo -e "\e[1;32mPerskaitykite viska, kad irankis butu tinkamai naudojamas...";
 sleep 2.5
 cat manualEN.txt
 read foo
@@ -99,8 +99,10 @@ echo "TELEGRAM: https://t.me/RealHackRWAM "
 echo "TELEGRAM: https://t.me/RealStrategyRS "
 echo "FACEBOOK: https://m.facebook.com/groups/142565756559228 "
 echo "FACEBOOK: https://m.facebook.com/RealHackRWAM "
+echo "MODIFIKUOTA ROLKOS "
+echo "TELEGRAM: https://t.me/Asrolka "
 echo ""
-echo -e "\e[1;31mMESSAJE FROM RS\e[0m"
+echo -e "\e[1;31mZINUTE NUO RS\e[0m"
 echo ""
 echo -e "\e[1;36mNiekada nenustok mokytis... :)\e[0m"
 echo ""

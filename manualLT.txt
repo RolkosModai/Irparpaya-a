@@ -1,0 +1,43 @@
+.........................
+#NAME SCRIPT: Irparpayaña
+.........................
+#Irparpayaña meaning = Accompany one to put it on the road.
+#Language: Aymara - Perú 
+.........................
+#Sunday 09/12/2018
+#Tuesday 01/15/2019
+#By: real strategy / rwam
+........................
+
+OPTIONS:
+
+[1] Ištraukia URL iš tokių svetainių kaip http ir https
+[2] Rodo svetainės būseną
+[3] Svetainių pridėjimo klavišas
+[4] Sukurkite funkcinę svetainių / prieglobos naudingąją apkrovą
+[5] Parodykite žiniatinklio paslaugose / IP / tarpiniame serveryje atidarytus prievadus
+  - Po kiekvieno prievado uždėkite kablelį, pavyzdžiui: 22,53,443,80,8080
+[6] Peržiūrėkite įgaliotąjį arba informaciją iš svetainės ar IP
+[7] Kaip naudoti scenarijų „host-extractor-v3.sh“
+[8] Mano žinutė visuomenei
+[0] Išeiti iš meniu 0 ir 0 išeiti iš meniu ispanų kalba
+[97] Pakeiskite kalbą į lietuvių kalbą
+[98] Pakeiskite kalbą į anglų
+[99] Pakeiskite kalbą į ispanų kalbą
+
+[xx.xx] Secret menu :)
+
+
+
+DATA:
+
+
+MODIFIKUOTA ROLKOS
+
+TELEGRAM CHANNEL:
+
+https://t.me/Asrolka
+
+
+
+SPAUSKITE ENTER KAD TESTUMETE ...

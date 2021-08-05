@@ -101,6 +101,8 @@ echo -e "\e[1;31mZINUTE NUO MANES\e[0m"
 echo ""
 echo -e "\e[1;36mNiekada nenustok mokytis... :)\e[0m"
 echo ""
+echo -e "\e[1;31mPaspauskite Enter, kad testumete ...\e[0m"
+echo ""
 read foo;
 ;;
 97)clear

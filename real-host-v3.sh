@@ -80,7 +80,7 @@ read foo
 7)clear
 echo -e "\e[1;32mPerskaitykite viska, kad irankis butu tinkamai naudojamas...";
 sleep 2.5
-cat manualEN.txt
+cat manualLT.txt
 read foo
 ;;
 12.25)clear
@@ -94,11 +94,6 @@ echo -e "\e[1;33mCREDITS TO THE DEVELOPER\e[0m"
 echo ""
 echo -e "\e[1;31mCoder: @RealStrategy y el grupo vip RS"
 echo -e "\e[1;32m"
-echo "YOUTUBE : https://youtube.com/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealStrategyRS "
-echo "FACEBOOK: https://m.facebook.com/groups/142565756559228 "
-echo "FACEBOOK: https://m.facebook.com/RealHackRWAM "
 echo "MODIFIKUOTA ROLKOS "
 echo "TELEGRAM: https://t.me/Asrolka "
 echo ""
